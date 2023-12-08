@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/solimanghandour](https://github.com/solimanghandour/my_portfolio-_React/tree/main)
+   git clone https://github.com/solimanghandour/my_portfolio-_React/tree/main
    ```
 2. Install NPM packages
    ```sh
