@@ -12,7 +12,6 @@
     <a href="https://github.com/solimanghandour">
       <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
     </a>
-    <h1 align="center">michaelyeates.co.uk</h1>
     <p align="center">
     <br/>
 Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
